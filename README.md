@@ -1,2 +1,2 @@
 # Scraping-SKU-MarketingPro---Uipath
-project of Uipath
+Proyecto de Uipath para automatizar la captura de datos de la pagina www.marketingpro.cl
